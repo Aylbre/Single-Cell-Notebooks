@@ -1,4 +1,0 @@
-#!/bin/bash
-set -euo pipefail
-R -e"IRkernel::installspec(name = `ir`. displayname = ´R´)"
-
